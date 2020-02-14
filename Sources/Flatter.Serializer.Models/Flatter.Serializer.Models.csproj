@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseUrl></PackageLicenseUrl>
+    <Copyright>Ageron</Copyright>
+    <Description>Flatter.Serializer.Models - Test Task for https://medved.studio/</Description>
+    <Version>2.2.1.0</Version>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Authors>Ageron</Authors>
+    <Company>Home</Company>
+  </PropertyGroup>  
+
+</Project>

@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseUrl></PackageLicenseUrl>
+    <Copyright>Ageron</Copyright>
+    <Description>Flatter.Serializer.Interfaces - Test Task for https://medved.studio/</Description>
+    <Version>2.2.1.0</Version>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Authors>Ageron</Authors>
+    <Company>Home</Company>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Core.Project.Kernel" Version="2.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Flatter.Serializer.Models\Flatter.Serializer.Models.csproj" />
+  </ItemGroup>
+
+</Project>
